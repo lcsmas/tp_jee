@@ -1584,3 +1584,6 @@ Command-line arguments:  -data file:/home/lucas.mas/eclipse-workspace/ -os linux
 
 !ENTRY org.eclipse.e4.ui.workbench 4 0 2019-11-28 15:17:41.502
 !MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.eclipse.e4.tools.emf.ui/org.eclipse.e4.tools.emf.ui.internal.handlers.ResetToDefaultHandler
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-11-28 15:34:36.562
+!MESSAGE The workspace will exit with unsaved changes in this session.
