@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/lucas.mas/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1649559203.index
+2158638324.index
+2501822961.index
+1773601499.index
+1294334241.index
